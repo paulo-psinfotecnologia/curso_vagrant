@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/pjsjr/curso_vagrant/primeira_maquina/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/pjsjr/curso_vagrant/primeira_maquina","disabled":false,"__vagrantfile":true}}}
